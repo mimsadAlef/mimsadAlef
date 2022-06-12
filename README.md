@@ -19,7 +19,7 @@
     <a href="https://github.com/MimsadAlef">
         <img src="images/Github.svg" alt="GitHub" width="80px">
     </a>
-    <a href="mailto:mimsadAlef@@mail.ir">
+    <a href="mailto:mimsadAlef@mail.ir">
         <img src="images/Mail.svg" alt="mail" width="80px">
     </a>
     <a href="https://aparat.com/mimsadAlef">
