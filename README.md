@@ -3,7 +3,7 @@
     <sub>top header a deep fork from https://github.com/amir9480/amir9480</sub>
 </div>
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 
 <h2 align="center">Technologies & Languages I use</h2>
 
