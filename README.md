@@ -30,11 +30,11 @@
     <a href="https://aparat.com/mimsadAlef">
         <img src="images/Aparat.svg" alt="Aparat" width="80px">
     </a>
-    <a href="https://virgool.io/@MimsadAlef">
+    <a href="https://virgool.io/@mimsadAlef">
         <img src="images/Virgool.svg" alt="Virgool" width="80px">
     </a>
-    <a href="https://wekhed.ir/@MimsadAlef">
-        <img src="images/Wekhed.png" alt="Wekhed" width="80px">
+    <a href="https://virasty.com/mimsadAlef">
+        <img src="images/Wekhed.png" alt="Virasty" width="80px">
     </a>
 </p>
 <!-- <h2 align="center">my project</h2> -->
