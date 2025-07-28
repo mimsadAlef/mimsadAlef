@@ -35,6 +35,6 @@
     <a href="mailto:mimsadAlef@mail.ir"><img src="images/Mail.svg" alt="mail" width="100px"></a>
     <a href="https://aparat.com/mimsadAlef"><img src="images/Aparat.svg" alt="Aparat" width="100px"></a>
     <a href="https://virgool.io/@mimsadAlef"><img src="images/Virgool.svg" alt="Virgool" width="100px"></a>
-    <a href="https://virasty.com/mimsadAlef"><img src="images/Virasty.png" alt="Virasty" width="100px"></a>
+    <a href="https://virasty.com/mimsadAlef"><img src="images/Virasty.svg" alt="Virasty" width="100px"></a>
 </p>
 <!-- <h2 align="center">my project</h2> -->
